@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoForActa2RPC", "NoForActa2RPC\NoForActa2RPC.csproj", "{86628133-4520-4221-808A-BBE688EAA68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86628133-4520-4221-808A-BBE688EAA68D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Debug|Any CPU.Build.0 = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Debug|x64.ActiveCfg = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Debug|x64.Build.0 = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Release|Any CPU.ActiveCfg = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Release|Any CPU.Build.0 = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Release|x64.ActiveCfg = Debug|x64
+		{86628133-4520-4221-808A-BBE688EAA68D}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948CB6AB-90F0-4C73-B7F0-A3FE0A979E48}
+	EndGlobalSection
+EndGlobal
